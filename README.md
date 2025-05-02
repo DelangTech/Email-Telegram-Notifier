@@ -1,8 +1,7 @@
 # 💻 Email Telegram Notifier
 
 Email Telegram Notifier is a lightweight desktop application that automatically monitors your email inbox and sends instant Telegram alerts whenever a new message arrives from a specified sender. Designed for simplicity and reliability, this tool bridges your email and Telegram channels to ensure you never miss important emails — even when you're away from your inbox.
-
-Built using Python and Eel, the app features a user-friendly interface where you can input your email server settings, authentication credentials, sender filters, and Telegram bot details. Once configured, the notifier runs in the background and keeps checking your inbox at defined intervals. When a matching email is detected, it sends a custom message to your Telegram chat instantly.
+ 
 ---
 
 ## 📦 Features
