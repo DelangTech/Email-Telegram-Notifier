@@ -51,7 +51,50 @@ To insert config (like email, Telegram credentials, sender filters, etc.):
 2. Press **Start**
 3. The app begins checking the email inbox periodically
 4. When a message from a matching sender is found, a Telegram notification is sent
+
+## 🤖 How to Create a Telegram Bot and Get Chat ID
+
+Follow these steps to connect your Telegram bot:
+
+### Step 1: Create the Bot
+1. Open Telegram, search for **@BotFather**
+2. Type `/newbot` and follow the steps:
+   - Set a **bot name** (e.g. Email Notifier)
+   - Set a **username** (must end in `bot`)
+3. BotFather gives you a **Bot Token**
 5. Logs are shown in the GUI and saved locally
+
+---
+
+---
+
+## 👥 Using the Bot in a Telegram Group (Optional)
+
+If you want the bot to send messages to a **group** instead of just to you directly, follow these steps:
+
+---
+
+### ✅ Step 1: Create a Group
+1. Open Telegram and click **New Group**
+2. Add at least one member (can be just you for now)
+3. Set a group name (e.g., `Email Alerts Group`)
+
+---
+
+### ✅ Step 2: Add the Bot to the Group
+1. In the group, tap the **Group Name** → **Manage Group**
+2. Select **Add Members** and search for your bot username (e.g., `@email_notify_bot`)
+3. Add the bot to the group
+
+---
+
+### ✅ Step 3: Promote the Bot to Admin
+1. Go to **Group Settings** → **Administrators**
+2. Select your bot and tap **Promote to Admin**
+3. Enable the following permissions:
+   - ✅ Send Messages
+   - ✅ Pin Messages (optional)
+   - ❌ No need for delete/ban rights
 
 ---
  
