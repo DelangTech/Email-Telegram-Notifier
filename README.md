@@ -52,7 +52,7 @@ To insert config (like email, Telegram credentials, sender filters, etc.):
 3. The app begins checking the email inbox periodically
 4. When a message from a matching sender is found, a Telegram notification is sent
 
-## 🤖 How to Create a Telegram Bot and Get Chat ID
+## 🤖 How to Create a Telegram Bot
 
 Follow these steps to connect your Telegram bot:
 
@@ -63,8 +63,6 @@ Follow these steps to connect your Telegram bot:
    - Set a **username** (must end in `bot`)
 3. BotFather gives you a **Bot Token**
 5. Logs are shown in the GUI and saved locally
-
----
 
 ---
 
