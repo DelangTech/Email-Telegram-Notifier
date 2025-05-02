@@ -16,7 +16,6 @@ Email Telegram Notifier is a lightweight desktop application that automatically 
 
 - Simple GUI for setup, no technical knowledge required
 
-- Can be packaged as a standalone .exe (no need to install Python)
 
 ---
 
@@ -26,7 +25,7 @@ Email Telegram Notifier is a lightweight desktop application that automatically 
 
 - Download `run.exe`.
 - Double-click to run it.
-- A browser window will open automatically with the interface.
+- A GUI will open automatically with the interface.
 
 ---
 
